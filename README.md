@@ -4,6 +4,6 @@ steps to become a git pro:
 - [x] Create a new repository 
 - [x] Create a Branch
 - [x] Make and commit changes
-- [ ] Open a Pull Request
+- [x] Open a Pull Request
 - [ ] Merge your Pull Request
 - [ ] Celebrate!
